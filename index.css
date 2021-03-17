@@ -1,0 +1,123 @@
+header{
+    margin: auto;
+    text-align: center;
+}
+  
+footer{
+    background-color: #F9E7DC;
+    margin:auto;
+    text-align: center;
+}
+.yosemite-rounded{
+    border-radius: 50%;
+    padding: 2em;
+    height: 20em;
+   }
+.header-nav .planning{
+  margin: 0 5em;
+  padding:2em;
+  border: 1px solid greenyellow;
+  display:inline-block;
+  border-radius: 25px;
+  color:white;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color:#FF764E;
+}
+.header-nav .learning{
+  margin: 0 5em;
+  padding:2em;
+  border: 1px solid greenyellow;
+  display:inline-block;
+  border-radius: 25px;
+  color:white;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #5ED3EB;
+}
+
+.header-nav .involving{
+  margin: 0 5em;
+  padding:2em;
+  border: 1px solid greenyellow;
+  display:inline-block;
+  border-radius: 25px;
+  color:white;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color:#FFCD69
+}
+.camping-info{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align:center;
+}
+.fire-safety{
+  height:15em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.reservations{
+  height:15em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.about-top{
+  background-color: white;
+  display: inline;
+  text-align: center;
+}
+.about{
+  background-color: #DDB9A3;
+  padding: 2em; 
+  color:white;
+  text-align: center;
+}
+
+.footer-links .planning{
+  margin: 0 5em;
+  padding:2em;
+  border: 1px solid greenyellow;
+  display:inline-block;
+  border-radius: 25px;
+  color:white;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color:#FF764E;
+}
+.footer-links .learning{
+  margin: 0 5em;
+  padding:2em;
+  border: 1px solid greenyellow;
+  display:inline-block;
+  border-radius: 25px;
+  color:white;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #5ED3EB;
+}
+.footer-links .involving{
+  margin: 0 5em;
+  padding:2em;
+  border: 1px solid greenyellow;
+  display:inline-block;
+  border-radius: 25px;
+  color:white;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color:#FFCD69
+}
+#yosemite-tunnel{
+ margin: auto;
+  height: 28em;
+  background-image: url('https://mikeputnamphoto.com/mpp/wp-content/uploads/2016/09/Yosemite-Sunset-1080x648.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
